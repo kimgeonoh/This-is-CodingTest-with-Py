@@ -1,2 +1,2 @@
 # Algorithm
-Thist is codingtest with python_Algorithm
+This is codingtest with python_Algorithm
